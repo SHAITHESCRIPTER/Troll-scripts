@@ -9,6 +9,7 @@ local sounds = {
     -- 14 Loud Memes, Cartoon Screams & Chaos Effects
     {name = "Metal Pipe Falling", id = 6729922069, category = "Meme"},
     {name = "Flapjack Scream", id = 115363025942222, category = "Meme"},
+    {name = "TORNADOS FAVORITE", id = 105075685614415, category = "Chaotic"},
     {name = "Tom & Jerry Scream", id = 130768299, category = "Meme"},
     {name = "Wilhelm Scream", id = 130833677, category = "Meme"},
     {name = "Goofy Yell", id = 131060205, category = "Meme"},
